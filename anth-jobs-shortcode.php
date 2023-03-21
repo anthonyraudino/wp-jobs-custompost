@@ -1,7 +1,7 @@
 <?php
 /**
- * Plugin Name: Jobs Shortcode
- * Description: A shortcode to display jobs custom post type.
+ * Plugin Name: Custom Jobs Shortcode
+ * Description: Use a custom post type called Jobs and display the posts and their custom fields on the frontend using the [jobs] shortcode. As well as filter based on category using [jobs category="categoryname"].
  * Version: 0.7
  * Author: Anthony Raudino
  * Author URI: https://yourwebsite.com
