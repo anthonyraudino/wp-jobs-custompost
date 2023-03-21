@@ -2,9 +2,9 @@
 /**
  * Plugin Name: Custom Jobs Shortcode
  * Description: Use a custom post type called Jobs and display the posts and their custom fields on the frontend using the [jobs] shortcode. As well as filter based on category using [jobs category="categoryname"].
- * Version: 0.7
+ * Version: 0.7.1
  * Author: Anthony Raudino
- * Author URI: https://yourwebsite.com
+ * Author URI: https://github.com/anthonyraudino/wp-jobs-custompost/
  */
 
 function jobs_shortcode($atts) {
