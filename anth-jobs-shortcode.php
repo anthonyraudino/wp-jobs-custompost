@@ -2,12 +2,11 @@
 /**
  * Plugin Name: Jobs Shortcode
  * Description: A shortcode to display jobs custom post type.
- * Version: 1.0
+ * Version: 0.7
  * Author: Anthony Raudino
  * Author URI: https://yourwebsite.com
  */
 
-// Jobs Shortcode with Category Filter, Post Content, Featured Image, and Custom Field
 function jobs_shortcode($atts) {
     $atts = shortcode_atts( array(
         'category' => '',
